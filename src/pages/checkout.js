@@ -24,6 +24,7 @@ function checkout() {
 
                 {items.map((items,i)=>(
                     <CheckoutProduct/>
+                    // hello
                 ))}
             </div>
 
