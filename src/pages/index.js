@@ -11,6 +11,7 @@ export default function Home({products}) {
       </Head>
 
       <Header/>
+      {/* check */}
 
       <main className="max-w-screen-2xl mx-auto">
         {/* Banner */}
